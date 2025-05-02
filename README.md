@@ -65,3 +65,5 @@ Feel free to fork and contribute improvements or additional templates.
 ---
 
 
+![Resume Screenshot](https://github.com/greeshmans/Freshers-ats-friendly-resume-LATEX-template-mca-bca-btech/blob/main/Resume%20ScreenShot.png?raw=true)
+
