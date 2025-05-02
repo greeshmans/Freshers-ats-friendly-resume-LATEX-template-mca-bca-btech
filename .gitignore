@@ -1,0 +1,28 @@
+# LaTeX-specific files to ignore
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.gz
+*.pdf
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Backup files
+*~
+*.bak
+
+# LaTeX editor temporary files
+.vscode/
+.idea/
+
+# Thumbs.db (Windows specific)
+Thumbs.db
+
+# MacOS specific files
+.DS_Store
